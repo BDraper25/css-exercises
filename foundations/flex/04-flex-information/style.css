@@ -21,19 +21,22 @@ img {
 
 .one-c{
   display: flex;
-  
+  flex-wrap: wrap;
 }
 
 .two-c{
   display: flex;
+  flex-wrap: wrap;
 }
 
 .three-c{
   display: flex;
+  flex-wrap: wrap;
 }
 
 .four-c{
   display: flex;
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
