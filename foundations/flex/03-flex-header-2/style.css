@@ -51,5 +51,10 @@ ul {
 }
 
 .right-container {
-  
+  display: flex;
+
+}
+
+.left-container{
+  display: flex;
 }
