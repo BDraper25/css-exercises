@@ -48,10 +48,9 @@ a {
   gap: 16px;
 }
 
-.header {
-  display: flex;
-}
-
+.header,
 .footer {
   display: flex;
+  justify-content: space-between;
+  padding: 16px;
 }
