@@ -17,6 +17,11 @@ body {
   font-size: 32px;
 }
 
+.body {
+  display: flex;
+  flex: 1;
+}
+
 .footer {
   height: 72px;
   background: #eee;
